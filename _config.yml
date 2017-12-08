@@ -44,6 +44,6 @@ email:       lintjx@gmail.com
 author:      T.J.  LIN
 description: "This is a beta version and this website is still under construction.
 Outages could happen suddenly. "
-baseurl:     /test
+baseurl:     ""
 exclude:     ['README.md']
 url:         "http://lintj.com"
