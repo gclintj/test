@@ -2,7 +2,7 @@
 layout: post
 title:  "尝试jekyll与GitHub，问题与解决"
 date:   2017-11-23 12:22:25 -0700
-categories: Use Jekyll
+categories: Jekyll
 ---
 Ruby零基础，折腾起来jekyll还是有点头疼的。  
 此文既是对之前所做工作的总结，也算是测试发一篇文章。准备接下来进一步的设置。
