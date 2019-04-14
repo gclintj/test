@@ -42,8 +42,10 @@ plugins:
 title:       LINTJ
 email:       lintjx@gmail.com
 author:      T.J.  LIN
-description: "This is a beta version and this website is still under construction.
-Outages could happen suddenly. "
+description: "This is a beta version and this website is still under construction.  
+Outages could happen suddenly.  
+LINTJCOM  
+lintjcom "
 baseurl:     ""
 exclude:     ['README.md']
 url:         "http://lintj.com"
