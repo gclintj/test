@@ -2,7 +2,7 @@
 layout: post
 title:  "一点点自我介绍"
 date:   2019-02-12 15:45:00 -0700
-categories: reviews
+categories: personal
 ---
 （此介绍的目的不是炫耀，只是抵抗喷子们的一种尝试。  
 请无数远比我优秀的大神们不要觉得我不值一提还要自吹自擂。谢谢。）  
