@@ -3,19 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
+(Technical issue: This page is English only???)  
   
-[????????](https://www.douban.com/photos/album/1688450991/ "????")    
+[Recent Photos](https://www.douban.com/photos/album/1688450991/ "Recent Photos")    
   
-[Douban????](https://www.douban.com/people/lintianjiao/ "lintianjiao,douban")      
+[Douban](https://www.douban.com/people/lintianjiao/ "lintianjiao,douban")      
   
   
-???[???????](http://www.lintj.com/personal/2019/02/12/ZiLi.html "???????")  
+[A little bit of additional Self Introduction](http://www.lintj.com/personal/2019/02/12/ZiLi.html "Extra")  
    
 lintjcom  
   
 LINTJCOM  
   
-[Hyperlink Format](https://www.lintj.com "??lintj.com")    
+gclintj  
+  
+[Hyperlink Format](https://www.lintj.com "format lintj.com")    
   
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
