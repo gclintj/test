@@ -5,7 +5,7 @@ permalink: /about/
 ---
 (Technical issue: This page is English only???)  
   
-[Recent Photos](https://www.douban.com/photos/album/1688450991/ "Recent Photos")    
+Recent Photos on [Douban](https://www.douban.com/photos/album/1688450991/ "Douban") or [500px](https://500px.com/gclintj "500px")   
   
 [Douban](https://www.douban.com/people/lintianjiao/ "lintianjiao,douban")      
   
