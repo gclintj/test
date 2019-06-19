@@ -13,6 +13,6 @@ categories: diary
 这里的Prime，也并不是“USDA Prime grade beef”里的Prime.  
 即，Prime Rib并不是来自USDA Prime grade beef的Ribs.  
   
-另外今天跟朋友学了点蘸料的故事：
+另外今天跟朋友学了点蘸料的故事：  
 Au jus： meat dishes prepared or served together with a light gravy, or broth, made from the juices given off by the meat as it is cooked.  
 Horseradish sauce: traditional sauce for prime rib.  
