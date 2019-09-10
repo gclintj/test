@@ -1,0 +1,22 @@
+﻿---
+layout: post
+title:  "Robinhood股票软件基本信息"
+date:   2019-09-10 15:45:00 -0700
+categories: USstock
+---
+  
+[Robinhood推荐注册链接，拿一个免费股票](https://invite.robinhood.com/tianjil10 "Robinhood推荐注册链接")    
+  
+Robinhood基本服务无手续费、免佣金，适合没什么股票交易经验的学生党或小白。交易门槛低，不用担心交易的数量比较小，好不容易的一点股票成长获利都用来交手续费了。。    
+用推荐链接注册完成的话，可以免费拿到一个股票。（需有SSN才能完成注册.）  
+  
+Robinhood是SIPC (Securities Investor Protection Corporation) 成员，所以资金安全应该可以认为是有保障的。  
+  
+具体买卖股票等知识技能，还是要接着自行学习。入市有风险，投资需谨慎。。    
+  
+[Robinhood推荐注册链接，拿一个免费股票](https://invite.robinhood.com/tianjil10 "Robinhood推荐注册链接")    
+  
+免责声明：  
+作者可以在任何不予告知的情况下，对本免责声明内容进行更改。网站上内容为作者业余的个人笔记和感想，没有经过核实，作者不保证网站上信息的完整性和准确性。作者不提供任何投资建议，所叙述的任何观点只是分享交流用途，并不构成证券的买入，卖出或持有之建议。任何用户均应将此类信息作为进行额外的参考信息，并对自己的投资策略负责任。作者对网站资料等的正确性、精确性、可靠性、及时性、获利性及其它方面，对使用这些资料引起的后果，一概不付任何责任。
+  
+[Hyperlink Format](https://www.lintj.com "访问lintj.com")  
