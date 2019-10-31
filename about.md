@@ -5,9 +5,7 @@ permalink: /about/
 ---
 (Technical issue: This page is English only???)  
   
-Recent Photos on [Douban](https://www.douban.com/photos/album/1688450991/ "Douban") or [500px](https://500px.com/gclintj "500px")   
-  
-[Douban](https://www.douban.com/people/lintianjiao/ "lintianjiao,douban")      
+Recent Photos on [500px](https://500px.com/gclintj "500px") (Looking for another good pic site to share pics.)  
   
 [Bilibili](https://space.bilibili.com/2781398/ "Videos") Some videos uploaded when there were few restrictions.
   
