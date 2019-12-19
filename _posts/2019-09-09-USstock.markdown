@@ -27,6 +27,7 @@ ROE (Return On Equity) 股东权益报酬率。（相对ROA被放大。）（留
   
 殖利率 Yield  
   
+TTM: Trailing Twelve Months    
   
 **常用链接**  
 [Robinhood](https://robinhood.com/ "Robinhood")    
@@ -39,18 +40,23 @@ ROE (Return On Equity) 股东权益报酬率。（相对ROA被放大。）（留
 [Yahoo](https://finance.yahoo.com/ "Yahoo Finance")   
 [Zacks](https://www.zacks.com/ "股票评价")   
 [Finviz](https://finviz.com/ "股票筛选？")   
+[StockFetcher](https://stockfetcher.com/ " stock screener")   
 
 [sigfig](https://www.sigfig.com/ "Portfolio？")   
   
-[Investing](https://www.investing.com/ "行情资讯选股等") [MarketWatch](https://www.marketwatch.com/ "新闻？")     
-
+[Investing](https://www.investing.com/ "行情资讯选股等") 
+[MarketWatch](https://www.marketwatch.com/ "新闻？") 
+[Stocktwits](https://stocktwits.com/  "类似微博") 
+[雪球](https://xueqiu.com/  "雪球")
+[SeekingAlpha](https://seekingalpha.com/  "")
+  
+[TradingView](https://www.tradingview.com/  "TradingView？")     
   
 潜在待补充  
    
 
-https://xueqiu.com/
-https://stockfetcher.com/
-https://stocktwits.com/
+
+
 https://www.benzinga.com/calendar/earnings
 https://stockcharts.com/
 
@@ -63,7 +69,7 @@ https://www.zerohedge.com/
 
 https://www.sec.gov/
 
-https://seekingalpha.com/
+
 https://ycharts.com/indicators/cboe_vix_putcall_ratio
 
 http://meiguwiki.com/
