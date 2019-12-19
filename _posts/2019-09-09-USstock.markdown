@@ -46,9 +46,10 @@ TTM: Trailing Twelve Months
   
 [Investing](https://www.investing.com/ "行情资讯选股等") 
 [MarketWatch](https://www.marketwatch.com/ "新闻？") 
+[ZeroHedge](https://www.zerohedge.com/ "资讯？") 
 [Stocktwits](https://stocktwits.com/  "类似微博") 
 [雪球](https://xueqiu.com/  "雪球")
-[SeekingAlpha](https://seekingalpha.com/  "")
+[SeekingAlpha](https://seekingalpha.com/  "论坛？")
   
 [TradingView](https://www.tradingview.com/  "TradingView？")     
   
@@ -64,8 +65,6 @@ https://new.nasdaq.com/
 https://www.nyse.com/index
 
 https://www.freestockcharts.com/
-
-https://www.zerohedge.com/
 
 https://www.sec.gov/
 
