@@ -3,9 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-Full Chinese Version:
-http://www.lintj.com/personal/2010/01/01/About.html
-
+[Full Chinese Version](http://www.lintj.com/personal/2010/01/01/About.html "Full Chinese Version")  
+  
 (Technical issue: This page is English only???)  
   
 Recent Photos on [500px](https://500px.com/gclintj "500px") (Looking for another good pic site to share pics.)  
