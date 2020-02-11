@@ -7,6 +7,10 @@ permalink: /about/
   
 (Technical issue: This page is English only???)  
   
+[This personal site](http://www.lintj.com/ "lintj.com")  
+  
+Contact me: contact@lintj.com  
+  
 Recent Photos on [500px](https://500px.com/gclintj "500px") (Looking for another good pic site to share pics.)  
   
 Some videos on [Bilibili](https://space.bilibili.com/2781398/ "Videos")   

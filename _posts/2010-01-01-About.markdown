@@ -4,8 +4,10 @@ title:  "About关于我"
 date:   2010-01-01 15:45:00 -0700
 categories: personal
 ---
-
-
+  
+[本个人网站](http://www.lintj.com/ "lintj.com")  
+  
+Contact me: contact@lintj.com  
   
 传了一些视频在[Bilibili](https://space.bilibili.com/2781398/ "Videos")   
   
