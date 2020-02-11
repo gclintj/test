@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 Full Chinese Version:
-
+http://www.lintj.com/personal/2010/01/01/About.html
 
 (Technical issue: This page is English only???)  
   
 Recent Photos on [500px](https://500px.com/gclintj "500px") (Looking for another good pic site to share pics.)  
   
-[Bilibili](https://space.bilibili.com/2781398/ "Videos") Some videos.  
+Some videos on [Bilibili](https://space.bilibili.com/2781398/ "Videos")   
 
 [Twitch](https://www.twitch.tv/gclintj "Twitch")  
 
