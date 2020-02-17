@@ -25,6 +25,10 @@ Wechat Subscription Account: lintj
   
 DouYin: gclintj  
   
+[Places I've been to](https://goo.gl/CWa4cs "Places")  
+  
+[Movies watched](http://www.lintj.com/reviews/2019/12/01/Movies.html "Movies")  
+  
 [A little bit of additional Self Introduction](http://www.lintj.com/personal/2019/02/12/ZiLi.html "Extra")  
    
 No longer using Weibo, Zhihu, Douban...  
