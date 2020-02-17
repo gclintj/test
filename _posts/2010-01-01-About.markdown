@@ -13,6 +13,8 @@ categories: personal
   
 [虎牙直播](https://www.huya.com/lintj "HuYaZhiBo")  
   
+[Mixer](https://mixer.com/lintj "Mixer")  
+  
 [Twitch](https://www.twitch.tv/gclintj "Twitch")  
   
 微信公众号：lintj  
@@ -35,3 +37,4 @@ gclintj
   
 [Hyperlink Format](https://www.lintj.com "format lintj.com")    
   
+https://mixer.com/lintj

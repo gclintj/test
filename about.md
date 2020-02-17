@@ -14,7 +14,9 @@ Contact me: contact@lintj.com
 Recent Photos on [500px](https://500px.com/gclintj "500px") (Looking for another good pic site to share pics.)  
   
 Some videos on [Bilibili](https://space.bilibili.com/2781398/ "Videos")   
-
+  
+[Mixer](https://mixer.com/lintj "Mixer")  
+  
 [Twitch](https://www.twitch.tv/gclintj "Twitch")  
 
 [HuYa](https://www.huya.com/lintj "HuYaZhiBo")  
