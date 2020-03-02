@@ -29,6 +29,8 @@ DouYin: gclintj
   
 [Movies watched](http://www.lintj.com/reviews/2019/12/01/Movies.html "Movies")  
   
+[Music list on YouTube](https://www.youtube.com/playlist?list=PLZZ3GNd8F1ATt0pdGE3CbayiJGoJEZj9u "Music YouTube")，[List on Google Sheet](https://docs.google.com/spreadsheets/d/1GONFCd8FIyMa0yg0LQzmQsRUZk_KrZ7D73nE_sFLpB0/edit?usp=sharing "Music Excel")  
+  
 [A little bit of additional Self Introduction](http://www.lintj.com/personal/2019/02/12/ZiLi.html "Extra")  
    
 No longer using Weibo, Zhihu, Douban...  
