@@ -31,6 +31,8 @@ DouYin: gclintj
   
 [Music list on YouTube](https://www.youtube.com/playlist?list=PLZZ3GNd8F1ATt0pdGE3CbayiJGoJEZj9u "Music YouTube")，[List on Google Sheet](https://docs.google.com/spreadsheets/d/1GONFCd8FIyMa0yg0LQzmQsRUZk_KrZ7D73nE_sFLpB0/edit?usp=sharing "Music Excel")  
   
+[Twitter](https://twitter.com/lintianjiao "Twitter")  
+  
 Recent Photos on [500px](https://500px.com/gclintj "500px") (Looking for another good pic site to share pics.)  
     
 [A little bit of additional Self Introduction](http://www.lintj.com/personal/2019/02/12/ZiLi.html "Extra")  
