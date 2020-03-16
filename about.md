@@ -11,7 +11,7 @@ permalink: /about/
   
 Contact me: contact@lintj.com  
   
-Some videos on [Bilibili](https://space.bilibili.com/2781398/ "Videos")   
+Some videos on [Bilibili](https://space.bilibili.com/2781398/ "Bili Videos"), [YouTube](https://www.youtube.com/channel/UCeUkaHI475LsrGAjT0tGkow "YT Videos")  
   
 [Mixer](https://mixer.com/lintj "Mixer")  
   
