@@ -33,6 +33,8 @@ DouYin: gclintj
   
 [Twitter](https://twitter.com/lintianjiao "Twitter")  
   
+[Discord](https://discord.gg/d6XaQyq "Discord")  
+  
 Recent Photos on [500px](https://500px.com/gclintj "500px") (Looking for another good pic site to share pics.)  
     
 [A little bit of additional Self Introduction](http://www.lintj.com/personal/2019/02/12/ZiLi.html "Extra")  
