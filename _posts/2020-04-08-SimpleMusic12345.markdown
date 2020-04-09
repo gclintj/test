@@ -1,0 +1,59 @@
+﻿---
+layout: post
+title:  "一些只用12345键的曲子的简谱 Some Simple Music with only 12345"
+date:   2020-04-08 12:22:25 -0700
+categories: collections
+---
+
+Mary Had a Little Lamb 玛丽有只小羊羔  
+3 2 1 2  3 3 3  2 2 2  3 5 5  
+3 2 1 2   3 3 3 3   2 2 3 2  1  
+  
+  
+Painting Carpenter 粉刷匠  
+5353 531 2432 5  
+5353 531 2432 1  
+2244 315 2432 5  
+5353 531 2432 1  
+  
+  
+小蜜蜂  
+533 422 1234 555  
+533 422 1355 3  
+2222 234  
+3333 345  
+533 422 1355 1  
+  
+  
+我爱我的幼儿园  
+1234 555  
+5531 232  
+1234 555  
+5531 231  
+  
+  
+Ode an die Freude 欢乐颂（主要部分）  
+3345 5432 1123 322  
+3345 5432 1123 211  
+2231 23431 23432 12(1)  
+3345 54342 1123 211  
+  
+  
+Waving Flag （部分）  
+3 1 2 3 1 1 5 4 3 2 3 1 2 3 2  
+3 1 2 3 1 1 5 4 3 2 3 1 2 3 2  
+  
+  
+The Itsy Bitsy Spider  
+The itsy bitsy spider went up the water spout  
+（） C C C D E E E D C D E C  
+Down came the rain and washed the spider out  
+E E F G G F E F G E  
+Out came the sun and dried up all the rain  
+C C D E E D C D E C  
+And the itsy bitsy spider went up the spout again  
+（）C C C D E E E D C D E C  
+  
+  
+Brother John 两只老虎（部分）  
+1231 1231 345 345  
