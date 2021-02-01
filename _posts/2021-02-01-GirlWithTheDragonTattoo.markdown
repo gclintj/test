@@ -9,7 +9,7 @@ categories: reviews
 主播读得不错，但故事本身却让人失望。  
 最初选中这本书来听，是在网页上隐约看到“丹-布朗”的名字，当场就开始听了。  
 
-书在最悬疑的阶段，忍不住还去看了电影[The Girl with the Dragon Tattoo (2011) （影评待创作）](https://www.ximalaya.com/youshengshu/10358793/).  
+书在最悬疑的阶段，忍不住还去看了电影[The Girl with the Dragon Tattoo (2011) （影评待创作）](https://www.lintj.com/reviews/2021/02/01/GirlWithTheDragonTattoo.html).  
 
 总得说来，背景、题材很好，然而人设漏洞很大，前后矛盾，完全立不住。  
 女主混乱暴力反社会的形象也并不让人有什么好感。强行主角光环无所不能当上帝就行了。  
