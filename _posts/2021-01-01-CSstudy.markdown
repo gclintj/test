@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "自学CS"
-date:   2010-01-01 15:45:00 -0700
+date:   2021-01-01 15:45:00 -0700
 categories: personal
 ---
   
