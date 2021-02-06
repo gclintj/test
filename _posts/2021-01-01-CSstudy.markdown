@@ -1,0 +1,20 @@
+﻿---
+layout: post
+title:  "自学CS"
+date:   2010-01-01 15:45:00 -0700
+categories: personal
+---
+  
+学习进度/Progress: CS61A.  
+    
+自学Computer Science中。  
+长期征友，一起学习 CS101, CS50, CS61A, CS61B, Algorithms, CSAPP 等课程。  
+[联系方式](https://www.lintj.com/personal/2010/01/01/About.html)  
+contact@lintj.com  
+
+Teaching myself CS - Computer Science, CS101, CS50, CS61A, CS61B, Algorithms, CSAPP, etc.  
+Valid indefinitely: Looking for study partner/group(s).  
+[Contact me](https://www.lintj.com/about/)  
+contact@lintj.com  
+  
+#组队 #学习小组 
