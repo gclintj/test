@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+lang: zh
 ---
 [Full Chinese Version](http://www.lintj.com/personal/2010/01/01/About.html "Full Chinese Version")  
   
@@ -53,6 +54,8 @@ LINTJCOM
 gclintj  
   
 [Hyperlink Format](https://www.lintj.com "format lintj.com")    
+
+测试中文显示
   
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
