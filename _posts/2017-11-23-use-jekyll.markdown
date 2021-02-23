@@ -45,3 +45,5 @@ GitHub for Windows无法登陆。
 [p1]: http://zhatrix.com/tech/2017-10-28-jekyll-install-and-use/
 [p2]: https://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/
 [p3]: https://github.com/gitextensions/gitextensions/issues/2044
+  
+210223：通过添加 lang: zh 解决了在about页面显示中文的问题。  
