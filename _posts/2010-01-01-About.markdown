@@ -4,7 +4,7 @@ title:  "About关于我"
 date:   2010-01-01 15:45:00 -0700
 categories: personal
 ---
-**此页面已废弃，请访问[https://www.lintj.com/about/](https://www.lintj.com/about/). 若您是通过站内链接导航至此页面，请联系[contact@lintj.com](contact@lintj.com)修正。谢谢！**
+**此页面已废弃，请访问[https://www.lintj.com/about/](https://www.lintj.com/about/). 若您是通过站内链接导航至此页面，请联系[contact@lintj.com](contact@lintj.com)修正。谢谢！**  
 **This page is obsolete. Please visit [https://www.lintj.com/about/](https://www.lintj.com/about/). If you came to this page from a link on this site, please contact [contact@lintj.com](contact@lintj.com) to fix it. Thank you!**    
 
 [此个人网站](http://www.lintj.com/ "lintj.com")
