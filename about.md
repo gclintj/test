@@ -4,8 +4,8 @@ title: About/关于
 permalink: /about/
 lang: zh
 ---
-[This personal site][lintj], and [why this website looks like sh\*t (to be completed)](https://www.lintj.com/personal/2021/02/11/WhyLooksLike.html)  
-[此个人网站][lintj]，以及[为什么这个网站看起来这么烂（待完成）](https://www.lintj.com/personal/2021/02/11/cnWhyLooksLike.html)  
+[This personal site][lintj], and [why this website looks like sh\*t](https://www.lintj.com/personal/2021/02/11/WhyLooksLike.html)  
+[此个人网站][lintj]，以及[为什么这个网站看起来这么烂](https://www.lintj.com/personal/2021/02/11/cnWhyLooksLike.html)  
 
 联系方式/Contact me: [contact@lintj.com](mailto:contact@lintj.com)
 
