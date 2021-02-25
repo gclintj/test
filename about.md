@@ -4,10 +4,10 @@ title: About 关于
 permalink: /about/
 lang: zh
 ---
-[This personal site][lintj], and [why this website looks like sh\*t (to be completed)](https://www.lintj.com/personal/2021/02/11/WhyLooksLike.html)  
+[This personal site][lintj], and [why this website looks like sh\*t (to be completed)](https://www.lintj.com/personal/2021/02/11/WhyLooksLike.html)
 [此个人网站][lintj]，以及[为什么这个网站看起来这么烂（待完成）](https://www.lintj.com/personal/2021/02/11/cnWhyLooksLike.html)
 
-联系方式/Contact me: [contact@lintj.com](contact@lintj.com)
+联系方式/Contact me: [contact@lintj.com](mailto:contact@lintj.com)
 
 Some videos on [Bilibili](https://space.bilibili.com/2781398/ "Bili Videos"), [YouTube](https://www.youtube.com/channel/UCeUkaHI475LsrGAjT0tGkow "YT Videos") 上传了一些视频。
 
@@ -68,7 +68,7 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 [jekyll-organization]: https://github.com/jekyll
 
-[lintj]: http://www.lintj.com/ "lintj.com"
+[lintj]: https://www.lintj.com/ "lintj.com"
 lintjcom
 LINTJCOM
 gclintj
