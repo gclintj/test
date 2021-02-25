@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 关于
+title: About/关于
 permalink: /about/
 lang: zh
 ---
@@ -26,7 +26,7 @@ Recent Photos on [500px](https://500px.com/gclintj "500px") 有一些照片 (Loo
 
 ---
 
-##### 注意/Caution：
+### 注意/Caution：
 本站的评论功能可能由第三方插件实现，本站不了解其公司背景，可能也不会永久保留相关插件。
 Commenting on this site might be supported by a third party system. We do NOT know much about it, and it might not be permanent.
 
@@ -36,16 +36,16 @@ Commenting on this site might be supported by a third party system. We do NOT kn
 
 ---
 
-###### 用得不多的 Bearly using：
+#### 用得不多的 Bearly using：
 微信公众号Wechat Subscription Account: lintj
 抖音: gclintj
 [Twitch](https://www.twitch.tv/gclintj "Twitch")
 
 ---
 
-###### 废弃或暂停使用 Obsolete or suspended:
+#### 废弃或暂停使用 Obsolete or suspended:
 [Mixer](https://mixer.com/lintj "Mixer")
-[HuYa](https://www.huya.com/lintj "HuYaZhiBo")
+[虎牙](https://www.huya.com/lintj "HuYaZhiBo")  
 [Twitter](https://twitter.com/lintianjiao "Twitter")
 已弃用微博、知乎、豆瓣……
 No longer using Weibo, Zhihu, Douban...
