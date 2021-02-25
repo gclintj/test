@@ -7,7 +7,7 @@ categories: personal
 
 TL;DR:  
 Lack of tech skills and time.  
-Contents have priority over appearance.
+Contents have priority over appearance.  
 But it will be continously improved for its significance.  
 
 ---
