@@ -42,10 +42,14 @@ plugins:
 title:       LINTJ
 email:       lintjx@gmail.com
 author:      T.J.  LIN
-description: "This is a beta version and this website is still under construction.  
-Outages could happen suddenly.  
-LINTJCOM  
+description: "This is a beta version and this website is still under construction.
+Outages could happen suddenly.
+LINTJCOM
 lintjcom "
 baseurl:     ""
 exclude:     ['README.md']
 url:         "http://lintj.com"
+
+# Support for LiveRe comments system.
+# You can get your uid from https://livere.com/insight/myCode (General web site)
+livere_uid: MTAyMC81MjgyMy8yOTMwMQ==
