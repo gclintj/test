@@ -47,3 +47,4 @@ GitHub for Windows无法登陆。
 [p3]: https://github.com/gitextensions/gitextensions/issues/2044
 
 210223：通过添加 lang: zh 解决了在about页面显示中文的问题。
+210224：添加了LiveRe来必力的评论功能。  

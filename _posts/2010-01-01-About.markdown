@@ -4,52 +4,54 @@ title:  "About关于我"
 date:   2010-01-01 15:45:00 -0700
 categories: personal
 ---
-  
-[此个人网站](http://www.lintj.com/ "lintj.com")  
-  
-联系电子邮箱: contact@lintj.com  
-  
-传了一些视频在[Bilibili](https://space.bilibili.com/2781398/ "Videos"), [YouTube](https://www.youtube.com/channel/UCeUkaHI475LsrGAjT0tGkow "YT Videos")   
-  
-抖音号：gclintj  
-    
+**此页面已废弃，请访问[https://www.lintj.com/about/](https://www.lintj.com/about/). 若您是通过站内链接导航至此页面，请联系[contact@lintj.com](contact@lintj.com)修正。谢谢！**
+**This page is obsolete. Please visit [https://www.lintj.com/about/](https://www.lintj.com/about/). If you came to this page from a link on this site, please contact [contact@lintj.com](contact@lintj.com) to fix it. Thank you!**    
 
-  
-[Twitch](https://www.twitch.tv/gclintj "Twitch")  
-  
-微信公众号：lintj  
-  
-[Telegram频道：https://t.me/lintjcom](https://t.me/lintjcom "Telegram lintj")  
-  
-[去过的地方](https://goo.gl/CWa4cs "Places")  
-  
-[看过、想看的电影](http://www.lintj.com/reviews/2019/12/01/Movies.html "Movies")  
-  
-[YouTube上喜欢的音乐List](https://www.youtube.com/playlist?list=PLZZ3GNd8F1ATt0pdGE3CbayiJGoJEZj9u "Music YouTube")，[音乐Google表单](https://docs.google.com/spreadsheets/d/1GONFCd8FIyMa0yg0LQzmQsRUZk_KrZ7D73nE_sFLpB0/edit?usp=sharing "Music Excel")  
-  
+[此个人网站](http://www.lintj.com/ "lintj.com")
 
-  
-[Discord](https://discord.gg/d6XaQyq "Discord")  
-  
-一些照片在[500px](https://500px.com/gclintj "500px") (不知有什么别的适合分享的图片站啊？)  
-  
-[多余的一点点自我介绍](http://www.lintj.com/personal/2019/02/12/ZiLi.html "Extra")  
-  
-一些废弃或不常用的：  
-[虎牙直播](https://www.huya.com/lintj "HuYaZhiBo")  
-[Mixer](https://mixer.com/lintj "Mixer")  
-[Twitter](https://twitter.com/lintianjiao "Twitter")  
-  
+联系电子邮箱: contact@lintj.com
+
+传了一些视频在[Bilibili](https://space.bilibili.com/2781398/ "Videos"), [YouTube](https://www.youtube.com/channel/UCeUkaHI475LsrGAjT0tGkow "YT Videos")
+
+抖音号：gclintj
+
+
+
+[Twitch](https://www.twitch.tv/gclintj "Twitch")
+
+微信公众号：lintj
+
+[Telegram频道：https://t.me/lintjcom](https://t.me/lintjcom "Telegram lintj")
+
+[去过的地方](https://goo.gl/CWa4cs "Places")
+
+[看过、想看的电影](http://www.lintj.com/reviews/2019/12/01/Movies.html "Movies")
+
+[YouTube上喜欢的音乐List](https://www.youtube.com/playlist?list=PLZZ3GNd8F1ATt0pdGE3CbayiJGoJEZj9u "Music YouTube")，[音乐Google表单](https://docs.google.com/spreadsheets/d/1GONFCd8FIyMa0yg0LQzmQsRUZk_KrZ7D73nE_sFLpB0/edit?usp=sharing "Music Excel")
+
+
+
+[Discord](https://discord.gg/d6XaQyq "Discord")
+
+一些照片在[500px](https://500px.com/gclintj "500px") (不知有什么别的适合分享的图片站啊？)
+
+[多余的一点点自我介绍](http://www.lintj.com/personal/2019/02/12/ZiLi.html "Extra")
+
+一些废弃或不常用的：
+[虎牙直播](https://www.huya.com/lintj "HuYaZhiBo")
+[Mixer](https://mixer.com/lintj "Mixer")
+[Twitter](https://twitter.com/lintianjiao "Twitter")
+
 已弃用微博、知乎、豆瓣……
-  
-lintj  
-   
-lintjcom  
-  
-LINTJCOM  
-  
-gclintj  
-  
-[Hyperlink Format](https://www.lintj.com "format lintj.com")    
-  
+
+lintj
+
+lintjcom
+
+LINTJCOM
+
+gclintj
+
+[Hyperlink Format](https://www.lintj.com "format lintj.com")
+
 https://mixer.com/lintj
