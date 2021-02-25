@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Why this website looks like sh\*t"
+title:  "Why this website looks like sh*t"
 date:   2021-02-11 15:45:00 -0700
 categories: personal
 ---
