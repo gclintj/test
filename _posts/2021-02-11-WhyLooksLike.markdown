@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Why this website looks like sh*t (to-do)"
+title:  "Why this website looks like sh\*t"
 date:   2021-02-11 15:45:00 -0700
 categories: personal
 ---
@@ -25,4 +25,4 @@ Why do I choose to use this platform while it is so ugly for now?
 One reason is that it provides motivation and practice opportunities to study technical stuff.  
 More importantly, it might be the best option to have a blog to write freely while Mainland China have access to. Not gonna talk much about it. Just an example, you might not be able to post a diary on a third party platform when it contains your friend Travis' name. Why? Because the name Travis contains "av", which is adult content.  
   
-Reference: [为什么这个网站看起来这么烂（待完成）](https://www.lintj.com/personal/2021/02/11/cnWhyLooksLike.html)  
+Reference: [为什么这个网站看起来这么烂](https://www.lintj.com/personal/2021/02/11/cnWhyLooksLike.html)  
