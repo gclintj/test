@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "为什么这个网站看起来这么烂（待完成）"
+title:  "为什么这个网站看起来这么烂"
 date:   2021-02-11 15:45:00 -0700
 categories: personal
 ---
@@ -35,7 +35,7 @@ categories: personal
 更重要的是，人家也就只想岁月静好记录一下生活，却要被激进的莫名其妙的敏感词系统折磨。类似“今日比赛”，“五道口交警”这样再平常不过的词语，却会导致整篇日志无法发表，而且也不明确指出具体原因。  
 长远来看，如果想写点东西，还是用自建的平台吧。  
 
-参见：[why this website looks like sh\*t (to be completed)](https://www.lintj.com/personal/2021/02/11/WhyLooksLike.html)  
+参见：[why this website looks like sh\*t](https://www.lintj.com/personal/2021/02/11/WhyLooksLike.html)  
   
 拓展阅读可搜索关键词，例如：  
 “为什么 自建博客”，  
