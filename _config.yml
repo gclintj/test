@@ -22,6 +22,9 @@ github_username:  gclintj
 
 # Build settings
 markdown: kramdown
+kramdown:
+  hard_wrap: true
+
 theme: minima
 plugins:
   - jekyll-feed
