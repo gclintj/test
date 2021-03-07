@@ -1,0 +1,7 @@
+﻿---
+layout: post
+title:  "vim笔记"
+date:   2020-12-29 18:01:01 -0700
+categories: notes
+---
+[自学vim的一些笔记和技巧（更新中）。](https://www.notion.so/lintj/vim-3b659a2a64a845e6836da81fc3e2aea2)
