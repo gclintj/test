@@ -37,7 +37,7 @@ Commenting on this site might be supported by a third party system. We do NOT kn
 ---
 
 #### 用得不多的 Bearly using：  
-微信公众号Wechat Subscription Account: lintj  
+微信公众号Wechat Subscription Account（不是个人微信号）: lintj  
 抖音: gclintj  
 [Twitch](https://www.twitch.tv/gclintj "Twitch")  
 
