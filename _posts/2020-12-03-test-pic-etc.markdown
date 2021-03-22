@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "测试图片"
+title:  "测试图片等"
 date:   2020-12-03 12:00:25 -0700
 categories: Jekyll
 ---
@@ -10,7 +10,7 @@ categories: Jekyll
 ![201203测试hidden](//imgur.com/a/T3KDpPJ)  
 ![201203测试hidden2](//imgur.com/a/nCKKaLW)  
   
-![201203测试3](https://i.imgur.com/gpvJn26.jpg)  
+![201203测试3](https://i.imgur.com/gpvJn26.jpg =540x)  
   
 [Imgur](https://imgur.com/8cV3Eno)  
   
