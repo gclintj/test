@@ -17,4 +17,4 @@ categories: Jekyll
 测试
 换行
 
-<iframe src="//player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" src="//player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
