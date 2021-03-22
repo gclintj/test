@@ -12,11 +12,9 @@ categories: Jekyll
   
 ![201203测试3](https://i.imgur.com/gpvJn26.jpg)  
   
+比例为页面显示比例而非相对原图的大小。
+height似乎完全无用。
 <img src="https://i.imgur.com/gpvJn26.jpg" width="50%" />  
-
-<img src="https://i.imgur.com/gpvJn26.jpg" width="100%" />  
-
-<img src="https://i.imgur.com/gpvJn26.jpg" width="50%" height="5%" />  
   
 [Imgur](https://imgur.com/8cV3Eno)  
   
@@ -24,5 +22,7 @@ categories: Jekyll
 换行
 
 <iframe src="//player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<iframe width="50%" src="//player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</br>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</br>
+<iframe width="25%" height="25%" src="//player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
