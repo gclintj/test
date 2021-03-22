@@ -10,7 +10,9 @@ categories: Jekyll
 ![201203测试hidden](//imgur.com/a/T3KDpPJ)  
 ![201203测试hidden2](//imgur.com/a/nCKKaLW)  
   
-![201203测试3](https://i.imgur.com/gpvJn26.jpg){:width=50%}  
+![201203测试3](https://i.imgur.com/gpvJn26.jpg)  
+  
+<img src="https://i.imgur.com/gpvJn26.jpg" width="50%" />  
   
 [Imgur](https://imgur.com/8cV3Eno)  
   
