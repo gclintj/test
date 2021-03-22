@@ -26,6 +26,9 @@ Recent Photos on [500px](https://500px.com/gclintj "500px") 有一些照片 (Loo
 
 ---
 
+本站在调试与升级的过程中，可能导致一些链接失效。欢迎联系我们修正。谢谢！
+Some links stopped working during the process of upgrading the website. Please contact us to fix them. Thanks!
+
 ### 注意/Caution：  
 本站的评论功能可能由第三方插件实现，本站不了解其公司背景，可能也不会永久保留相关插件。  
 Commenting on this site might be supported by a third party system. We do NOT know much about it, and it might not be permanent.  
