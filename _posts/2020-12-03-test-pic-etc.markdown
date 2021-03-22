@@ -10,11 +10,11 @@ categories: Jekyll
 ![201203测试hidden](//imgur.com/a/T3KDpPJ)  
 ![201203测试hidden2](//imgur.com/a/nCKKaLW)  
   
-![201203测试3](https://i.imgur.com/gpvJn26.jpg =540x)  
+![201203测试3](https://i.imgur.com/gpvJn26.jpg){width=50%}  
   
 [Imgur](https://imgur.com/8cV3Eno)  
   
 测试
 换行
 
-<iframe width="560" src="//player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
