@@ -59,3 +59,9 @@ timezone: America/Phoenix
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
 livere_uid: MTAyMC81MjgyMy8yOTMwMQ==
+
+# Set the image for the Open Graph Protocol
+image:
+  path: /bbrb.ico
+  height: 192
+  width: 192
