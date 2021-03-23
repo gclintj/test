@@ -28,5 +28,5 @@ height似乎完全无用。
 <br>
 
 <div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 10%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1&high_quality=1" frameborder="no" scrolling="no"></iframe>
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1&high_quality=1" frameborder="no" scrolling="no"></iframe>
 </div>
