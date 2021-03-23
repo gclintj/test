@@ -27,4 +27,6 @@ height似乎完全无用。
 <iframe width="560" height="315" src="https://player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br>
 
-<iframe width="25%" height="25%" src="//player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 10%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=3778391&bvid=BV1Rs411X7m9&cid=6069674&page=1&high_quality=1" frameborder="no" scrolling="no"></iframe>
+</div>
