@@ -5,7 +5,7 @@ date:   2021-01-01 15:45:00 -0700
 categories: personal
 ---
   
-学习进度/Progress: CS61A.  
+学习进度/Progress: CS61B.  
     
 自学Computer Science中。  
 长期征友，一起学习 CS101, CS50, CS61A, CS61B, Algorithms, CSAPP 等课程。  
