@@ -28,3 +28,4 @@ gem 'jekyll-seo-tag'
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "minima", "~> 2.5"
+gem "rexml", ">= 3.2.5"
