@@ -6,6 +6,8 @@ categories: personal
 ---
   
 学习进度/Progress: CS61B.  
+
+[Telegram 学习小组 Study Group](https://t.me/cslintj)
     
 自学Computer Science中。  
 长期征友，一起学习 CS101, CS50, CS61A, CS61B, Algorithms, CSAPP 等课程。  
