@@ -11,7 +11,8 @@ lang: zh
 
 Some videos on [Bilibili](https://space.bilibili.com/2781398/ "Bili Videos"), [YouTube](https://www.youtube.com/channel/UCeUkaHI475LsrGAjT0tGkow "YT Videos") 上传了一些视频。
 
-[电报频道 Telegram Channel: https://t.me/lintjcom](https://t.me/lintjcom "Telegram lintj")
+[电报日常频道 Telegram Channel: https://t.me/lintjcom](https://t.me/lintjcom "Telegram lintj")
+[电报分享频道 Telegram Channel: https://t.me/lintjshare](https://t.me/lintjshare "Telegram Share")
 
 [Discord](https://discord.gg/d6XaQyq "Discord")
 
@@ -19,10 +20,13 @@ Some videos on [Bilibili](https://space.bilibili.com/2781398/ "Bili Videos"), [Y
 
 [看过、想看的电影等 Movies watched](http://www.lintj.com/reviews/2019/12/01/Movies.html "Movies")
 
+[Reddit](https://www.reddit.com/r/lintj/ "理性讨论区")
 
 [去过的地方 Places I've been to （已因容量限制停止更新/Updating suspended because of quantity restrictions.）](https://goo.gl/CWa4cs "Places")
 
 Recent Photos on [500px](https://500px.com/gclintj "500px") 有一些照片 (Looking for another good pic site to share pics.不知有什么别的适合分享的图片站啊？)
+
+偶尔也用小红书。
 
 ---
 
@@ -40,9 +44,9 @@ Commenting on this site might be supported by a third party system. We do NOT kn
 ---
 
 #### 用得不多的 Bearly using：  
-微信公众号Wechat Subscription Account（不是个人微信号）: lintj  
 抖音: gclintj  
 [Twitch](https://www.twitch.tv/gclintj "Twitch")  
+微信公众号Wechat Subscription Account（不是个人微信号）: lintj  
 
 ---
 
@@ -51,7 +55,9 @@ Commenting on this site might be supported by a third party system. We do NOT kn
 [虎牙](https://www.huya.com/lintj "HuYaZhiBo")  
 [Twitter](https://twitter.com/lintianjiao "Twitter")  
 已弃用微博、知乎、豆瓣……  
-No longer using Weibo, Zhihu, Douban...  
+No longer using Weibo, Zhihu, Douban...  (Using [Telegram](https://t.me/lintjcom "Telegram lintj") instead.
+日常更新的需求主要由[电报日常频道](https://t.me/lintjcom "Telegram lintj")取代。）
+
 
 ---
 
