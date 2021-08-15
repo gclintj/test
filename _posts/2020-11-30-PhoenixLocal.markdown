@@ -7,7 +7,7 @@ categories: personal
 Phoenix, Arizona.
 长期找朋友一起玩篮球、羽毛球、hiking、逛博物馆……
 
-[Telegram群：https://t.me/arizonacn](https://t.me/arizonacn)
+[Telegram群：https://t.me/phxcn](https://t.me/phxcn)
 
 [Discord群：https://discord.gg/Y35c5wrPvu](https://discord.gg/Y35c5wrPvu)
 
