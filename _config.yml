@@ -65,3 +65,8 @@ image:
   path: /bbrb.ico
   height: 32
   width: 32
+  
+# paginate
+paginate: 50
+paginate_path: "blog/page:num"
+  
