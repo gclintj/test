@@ -1,0 +1,8 @@
+﻿---
+layout: post
+title:  "The Finger?"
+date:   2021-10-10 13:45:00 -0700
+categories: diary
+---
+What's the point? Why is the finger?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KuG_NOmG4vE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
