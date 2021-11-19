@@ -29,6 +29,8 @@ Recent Photos on [500px](https://500px.com/gclintj "500px") 有一些照片 (Loo
 偶尔也用小红书。
 
 ---
+[关于约着一起玩点啥](https://www.lintj.com/personal/2020/11/30/PhoenixLocal.html)
+---
 
 本站在调试与升级的过程中，可能导致一些链接失效。欢迎联系我们修正。谢谢！
 Some links stopped working during the process of upgrading the website. Please contact us to fix them. Thanks!
