@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2021电影记录（更新中）"
+title:  "2021电影记录"
 date:   2021-01-03 21:01:01 -0700
 categories: reviews
 ---
@@ -40,5 +40,4 @@ The Morning Show (2019)：211107-09. 前三四集还不错，后几集越来越�
 
 ---
 
-[2019及更旧] [2019年底与2020]
-（link 待完成）
+[2019及更旧](https://www.lintj.com/reviews/2019/11/29/older2019Movies.html)，[2019年底与2020](https://www.lintj.com/reviews/2019/11/30/2020Movieswith2019.html)，[2022](https://www.lintj.com/reviews/2022/01/06/2022Movies.html)
