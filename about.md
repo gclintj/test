@@ -18,7 +18,7 @@ Some videos on [Bilibili](https://space.bilibili.com/2781398/ "Bili Videos"), [Y
 
 [Music list on YouTube上喜欢的音乐List](https://www.youtube.com/playlist?list=PLZZ3GNd8F1ATt0pdGE3CbayiJGoJEZj9u "Music YouTube")，[List on Google Sheet 音乐表单](https://docs.google.com/spreadsheets/d/1GONFCd8FIyMa0yg0LQzmQsRUZk_KrZ7D73nE_sFLpB0/edit?usp=sharing "Music Excel")
 
-[看过、想看的电影等 Movies watched](http://www.lintj.com/reviews/2019/12/01/Movies.html "Movies")
+[看过、想看的电影等 Movies watched](https://www.lintj.com/reviews/2022/01/06/2022Movies.html "Movies")
 
 [Reddit](https://www.reddit.com/r/lintj/ "理性讨论区")
 
