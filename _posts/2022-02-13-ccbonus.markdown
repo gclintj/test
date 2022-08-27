@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "一些美国信用卡开卡奖励"
+title:  "一些美国信用卡开卡奖励与Cashback返现网站"
 date:   2022-02-13 09:45:00 -0700
 categories: personal
 tags: [美国,信用卡,开卡,奖励]
@@ -13,3 +13,15 @@ Maximum of 5 referees per calendar year （本站这么小众目测达不到）�
 Each eligible applicant will receive a $100 Statement Credit after making a purchase within three months of opening a new Discover account.
 Existing Discover cardmembers may not be eligible.
 Offer may not be combined with any other introductory offer.
+
+自己常用的几个返点高又比较靠谱的Cashback网站的Refer链接：
+(有额外注册奖励，不保证是当前注册奖励最高的活动。)
+[TopCashback](https://www.topcashback.com/ref/gclintj)  
+[RebatesMe](https://www.rebatesme.com/r/eq0d31)  
+[MrRebates](http://www.mrrebates.com?refid=1202343)  
+[Rakuten](https://www.rakuten.com/r/LINTJX?eeid=28187)  
+[BeFrugal](https://www.befrugal.com/rs/DWCCUPL/)
+
+无Refer链接：https://www.retailmenot.com/  
+
+黑名单：55haitao.
