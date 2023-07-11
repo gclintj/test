@@ -14,7 +14,7 @@ Some videos on [Bilibili](https://space.bilibili.com/2781398/ "Bili Videos"), [Y
 [电报日常频道 Telegram Channel: https://t.me/lintjcom](https://t.me/lintjcom "Telegram lintj")
 [电报分享频道 Telegram Channel: https://t.me/lintjshare](https://t.me/lintjshare "Telegram Share")
 
-[Discord](https://discord.gg/d6XaQyq "Discord")
+[Discord](http://lintj.com/discord "Discord")
 
 [Music list on YouTube上喜欢的音乐List](https://www.youtube.com/playlist?list=PLZZ3GNd8F1ATt0pdGE3CbayiJGoJEZj9u "Music YouTube")，[List on Google Sheet 音乐表单](https://docs.google.com/spreadsheets/d/1GONFCd8FIyMa0yg0LQzmQsRUZk_KrZ7D73nE_sFLpB0/edit?usp=sharing "Music Excel")
 
